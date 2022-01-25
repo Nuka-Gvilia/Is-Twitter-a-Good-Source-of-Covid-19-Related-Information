@@ -11,7 +11,7 @@ Are most messages original content or simply copies of other tweets?
 Methodology: 
 1. Filter tweets to only include those containing Covid-related words. 
 2. Assign Twitterers into organizations and categories based on their user desctiption and follower count. The organizations and categories are News, Healthcare, 
-Governmental, Celebrity, Influencer, and Other. 
+Governmental, Celebrity, Influencer, and Other (more details on the assignment methodology are discussed in "BDP-Project.pdf").
 3. Perform location and time analyses to identify Tweet volume patterns.
 4. Perform similarity analysis to determine whho posts mostly original content and who simply retweets information. 
 
