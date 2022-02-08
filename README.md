@@ -1,4 +1,4 @@
-# Is-Twitter-a-Good-Source-of-Covid-19-Related-Information
+# Is-Twitter-a-Good-Source-of-Covid-19-Related-Information?
 
 Project objective: identify whether Twitter can be considered a credible source of information, which reflects the risk of contracting a COVID infection.
 
