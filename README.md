@@ -18,5 +18,5 @@ Governmental, Celebrity, Influencer, and Other (more details on the assignment m
 Data: 
 A nested .json file containing more than 25,000,000 real world tweets were imported from the course instructor's GCP bucket. Thus, it could not be shared. 
 
-The project was completed in PySpark. 
+The project was completed in PySpark.
 
